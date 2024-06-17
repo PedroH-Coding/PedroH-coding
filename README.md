@@ -3,6 +3,7 @@
 - 🔭 Atualmente Trabalhando com front-end
 - 🌱 Estudando HTML e CSS
 - ⚡ Fun fact: Fluente em Inglês
+- 🔰 Discord: asrielo
 
 ##
 
